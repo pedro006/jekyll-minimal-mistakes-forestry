@@ -24,8 +24,7 @@ sections:
 - type: jekyll-pages
   label: Projects
   create: all
-  match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: directory
   path: _recipes
   label: Recipes
